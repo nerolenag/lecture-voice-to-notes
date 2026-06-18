@@ -76,7 +76,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 client = openai.OpenAI(
-    api_key="YOUR_GROQ_API_KEY_HERE",
+    api_key=st.secrets["GROQ_API_KEY"],
     base_url="https://api.groq.com/openai/v1"
 )
 
