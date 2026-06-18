@@ -71,7 +71,7 @@ st.markdown("""
 <div class="hero">
     <div class="hero-tag">🎙️ TeachRec</div>
     <h1>Study smarter,<br><span>not harder</span></h1>
-    <p>Record or upload any lecture and instantly get notes, flashcards, and quizzes — powered by AI.</p>
+    <p>Record or upload any lecture and instantly get notes, flashcards, and quizzes</p>
 </div>
 """, unsafe_allow_html=True)
 
